@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-- 👋 Hi, I’m @gtlakshan
+- 👋 Hi, I’m @dumindu1
 - 👀 I’m interested in Mobile game dev.
 - 🌱 I’m currently learning C# Programming
 - 💞️ I’m looking to collaborate on ....
