@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 - 👋 Hi, I’m @dumindu1
-- 👀 I’m interested in Graphic Designing.
+- 👀 I’m interested in Graphic Designing and Programming Languages.
 - 🌱 I’m currently learning C Programming, Java
 
 🔗 &nbsp;**Connect with me**
