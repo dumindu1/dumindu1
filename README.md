@@ -2,19 +2,10 @@
 
 - 👋 Hi, I’m @dumindu1
 - 👀 I’m interested in Graphic Designing.
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning C Programming, Java
 
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
 
-<a href="https://twitter.com/t_dumindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t_dumindu" height="30" width="40" /></a> 
-<!-- <a href="https://linkedin.com/in/gt-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gt-lakshan" height="30" width="40" /></a> -->
-<!-- <a href="https://stackoverflow.com/users/17518396/gt-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gt-lakshan" height="30" width="40" /></a> -->
-<a href="https://instagram.com/_dum1ndu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dum1ndu__" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/channel/UCYkEDRR_8txAIOWtL05W5OA" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="gt_lakshan_" height="40" width="40" /></a> -->
-
- 
 <h2 align="left">🚀 Some Tools I Use</h2>
 
   <!--<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary> -->
