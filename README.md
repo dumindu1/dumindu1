@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumindu1" alt="dumindu1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@t_dumindu" target="blank"><img src="https://img.shields.io/twitter/follow/@t_dumindu?logo=twitter&style=for-the-badge" alt="@t_dumindu" /></a> </p>
-
 - 🔭 I’m currently working on **Website Template Design**
 
 - 🌱 I’m currently learning **Adobe XD , C Programming, Java, PHP**
