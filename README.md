@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Adobe Photoshop, Adobe Illustrator**
 
-- 📫 How to reach me **tdumindu2@gmail.com**
+- 📫 Reach me from **tdumindu2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
